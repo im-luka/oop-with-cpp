@@ -1,2 +1,1 @@
-# oop-with-cpp
-Object oriented programming with C++
+# Object oriented programming with C++
